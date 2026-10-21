@@ -3,102 +3,251 @@
 
 # HIMANSHU RAJ
 
-### `CLOUD & DEVOPS ENGINEER | ASPIRING`
+### CLOUD & DEVOPS ENGINEERING
 
-**Building • Deploying • Automating**
+*Building practical cloud projects · Exploring automation · Improving deployment workflows*
 
-AWS · Linux · Docker · Git · CI/CD
+<br/>
 
-[![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
-[![Linux](https://img.shields.io/badge/Linux-Ubuntu-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://ubuntu.com/)
-[![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+<a href="https://github.com/HimanshuRaj02">
+  <img src="https://img.shields.io/badge/GitHub-Portfolio-172033?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/himanshuraj3802/">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/CLOUD-AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/CONTAINERS-DOCKER-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/SYSTEMS-LINUX-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/AUTOMATION-CI%2FCD-7057FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD"/>
 
 </div>
 
 ---
 
-## `01 / ABOUT ME`
+<table>
+<tr>
+<td width="55%" valign="top">
 
-```text
-Name       : Himanshu Raj
-Education  : MCA
-Focus      : Cloud Computing & DevOps
-Interests  : Infrastructure, Deployment, Automation
-Goal       : Cloud Support / Cloud Engineer / DevOps Engineer
-```
+## 👨‍💻 About Me
 
-I am building practical skills in AWS Cloud, Linux administration,
-containerization, and deployment workflows through hands-on projects.
+MCA student focused on **Cloud Computing and DevOps Engineering**.
 
-I believe in learning by building, testing, troubleshooting,
-and documenting real implementations.
+I learn by building practical projects, exploring AWS infrastructure, deploying containerized applications, and understanding automated build and testing workflows.
 
----
+<br/>
 
-## `02 / TECH STACK`
+☁️ **Career Focus**
 
-| DOMAIN | TECHNOLOGIES |
-|:--|:--|
-| ☁️ Cloud | AWS EC2, S3, IAM, VPC, EBS, Security Groups |
-| 🐧 Operating System | Linux, Ubuntu |
-| 🐳 Containers | Docker, Nginx |
-| 🔧 Version Control | Git, GitHub |
-| ⚙️ CI/CD | Jenkins — practical project experience |
-| 📊 Monitoring | AWS CloudWatch — basic exposure |
-| 💻 Programming | Python Basics, Java Basics, SQL |
-| 🌐 Web | HTML, CSS, JavaScript |
-| 📜 Infrastructure as Code | Terraform — not started yet |
+Cloud & DevOps Engineering
 
----
+<br/>
 
-## `03 / FEATURED PROJECTS`
+🛠️ **Hands-on Practice**
 
-### ◈ AWS EC2 + Docker + CI/CD
+AWS · Linux · Docker · Git · CI/CD
 
-Cloud deployment project focused on Docker and automated
-application delivery.
+<br/>
 
-**Stack:** AWS · Docker · GitHub Actions · CI/CD
+🎯 **Current Goal**
 
-[→ Explore Repository](https://github.com/HimanshuRaj02/aws-ec2-docker-cicd)
+Strengthen practical skills and build job-ready cloud projects.
 
-### ◈ Dockerized Web Server with Nginx
+</td>
+<td width="45%" valign="top">
 
-A static website served through a custom Docker image
-using Nginx.
+## ⚡ Technical Skills
 
-- Custom image based on `nginx:alpine`
-- HTML and CSS deployment
-- Container port mapping
-- Container lifecycle and health-check testing
+**☁️ Cloud Infrastructure**
 
-**Stack:** Docker · Nginx · Linux · HTML · CSS
+AWS EC2 · S3 · IAM · VPC · EBS · Security Groups
 
-[→ Explore Repository](https://github.com/HimanshuRaj02/CodeAlpha_DockerWebServer)
+**🐳 Containers & Web**
 
----
+Docker · Nginx · Dockerfiles · Port Mapping · Health Checks
 
-## `04 / CURRENT ROADMAP`
+**🔄 CI/CD & Version Control**
 
-- [x] AWS cloud fundamentals and hands-on labs
-- [x] Dockerized web server project
-- [x] Git and GitHub workflow practice
-- [ ] Advanced Linux and Bash scripting
-- [ ] Improve Jenkins CI/CD pipelines
-- [ ] Terraform and Infrastructure as Code
-- [ ] AWS monitoring and automation
+Git · GitHub · GitHub Actions · Jenkins project experience
+
+**🐧 Operating Systems**
+
+Linux / Ubuntu · Basic Bash
+
+**💻 Programming & Databases**
+
+Python Basics · Java Basics · SQL · MySQL
+
+**📈 Currently Learning**
+
+Terraform · Cloud Monitoring · Infrastructure as Code
+
+</td>
+</tr>
+</table>
 
 ---
 
-## `05 / CONNECT`
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/CLOUD%20%26%20CONTAINERS-DOCKER-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Project"/>
+
+### 🐳 Dockerized Web Server
+
+A static website deployed using a custom Docker image based on Nginx Alpine.
+
+**Key Highlights**
+
+▸ Custom Docker image using `nginx:alpine`
+
+▸ HTML and CSS website deployment
+
+▸ Container port mapping for browser access
+
+▸ Docker health-check configuration
+
+▸ Container lifecycle management and troubleshooting
+
+**Tech Stack**
+
+`Docker` `Nginx` `Linux` `HTML/CSS`
+
+<br/>
+
+<a href="https://github.com/HimanshuRaj02/CodeAlpha_DockerWebServer">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-1677FF?style=for-the-badge&logo=github&logoColor=white" alt="View Docker Project"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/CLOUD%20AUTOMATION-AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS CI/CD Project"/>
+
+### ☁️ AWS EC2 + Docker CI/CD
+
+A hands-on project focused on container image builds and an automated workflow with smoke testing.
+
+**Key Highlights**
+
+▸ AWS EC2 and Docker workflow
+
+▸ Docker image build pipeline
+
+▸ GitHub Actions workflow automation
+
+▸ Automated smoke testing
+
+▸ CI/CD fundamentals and deployment workflow practice
+
+**Tech Stack**
+
+`AWS` `Docker` `GitHub Actions`
+
+<br/>
+
+<a href="https://github.com/HimanshuRaj02/aws-ec2-docker-cicd">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-1677FF?style=for-the-badge&logo=github&logoColor=white" alt="View AWS CI/CD Project"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-HimanshuRaj02-181717?style=for-the-badge&logo=github)](https://github.com/HimanshuRaj02)
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/himanshuraj3802/)
+<a href="https://github.com/HimanshuRaj02?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-172033?style=for-the-badge&logo=github&logoColor=white" alt="Explore All Projects"/>
+</a>
 
-**LEARN  •  BUILD  •  TEST  •  IMPROVE**
+<br/><br/>
+
+<sub>Explore more of my cloud, infrastructure and automation projects.</sub>
+
+</div>
+
+---
+
+## 🧰 Technologies & Tools
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+
+</div>
+
+---
+
+## 🎯 Learning & Growth
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ✅ Practical Experience
+
+▸ AWS services and cloud labs
+
+▸ Docker and Nginx deployment
+
+▸ Git and GitHub workflows
+
+▸ GitHub Actions CI/CD project
+
+▸ Jenkins project experience
+
+</td>
+<td width="50%" valign="top">
+
+### 🧭 Next on My Roadmap
+
+▸ Improve Linux and Bash skills
+
+▸ Strengthen cloud monitoring knowledge
+
+▸ Learn Terraform fundamentals
+
+▸ Practise Infrastructure as Code
+
+▸ Build more deployment projects
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🤝 Let's Connect
+
+Interested in opportunities to grow as a **Cloud & DevOps Engineer** and contribute to practical cloud infrastructure and deployment projects.
+
+<div align="center">
+
+<a href="https://github.com/HimanshuRaj02">
+  <img src="https://img.shields.io/badge/GitHub-View%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repositories"/>
+</a>
+<a href="https://www.linkedin.com/in/himanshuraj3802/">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+</a>
+
+<br/><br/>
+
+**☁️ Learn · 🛠️ Build · 🔍 Test · 🚀 Improve**
 
 </div>
