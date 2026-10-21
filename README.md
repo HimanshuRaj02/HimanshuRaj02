@@ -1,13 +1,15 @@
 
 <div align="center">
 
-# HIMANSHU RAJ
+<h1>Hi, I'm Himanshu Raj 👋</h1>
 
-### CLOUD & DEVOPS ENGINEERING
+<p><strong>☁️ Aspiring Cloud &amp; DevOps Engineer</strong></p>
 
-*Building practical cloud projects · Exploring automation · Improving deployment workflows*
+<p><strong>AWS | Linux | Docker | Git | CI/CD</strong></p>
 
-<br/>
+<i>Building practical cloud projects · Exploring automation · Improving deployment workflows</i>
+
+<br/><br/>
 
 <a href="https://github.com/HimanshuRaj02">
   <img src="https://img.shields.io/badge/GitHub-Portfolio-172033?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Portfolio"/>
@@ -18,12 +20,13 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/CLOUD-AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/CLOUD-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/>
 <img src="https://img.shields.io/badge/CONTAINERS-DOCKER-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
 <img src="https://img.shields.io/badge/SYSTEMS-LINUX-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
 <img src="https://img.shields.io/badge/AUTOMATION-CI%2FCD-7057FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD"/>
 
 </div>
+
 
 ---
 
