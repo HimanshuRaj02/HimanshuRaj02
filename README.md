@@ -10,7 +10,6 @@
 Building practical cloud projects, learning automation,
 and documenting real deployment workflows.
 
-[![GitHub](https://img.shields.io/badge/GitHub-HimanshuRaj02-181717?style=for-the-badge&logo=github)](https://github.com/HimanshuRaj02)
 [![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws)](https://aws.amazon.com/)
 [![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker)](https://www.docker.com/)
 [![Linux](https://img.shields.io/badge/Linux-Ubuntu-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://ubuntu.com/)
@@ -71,8 +70,7 @@ Hands-on cloud and deployment project.
 ## 🤝 Connect With Me
 
 - GitHub: [HimanshuRaj02](https://github.com/HimanshuRaj02)
-- LinkedIn: Add your actual LinkedIn profile URL
-
+- LinkedIn: [Himanshu Raj](https://www.linkedin.com/in/himanshuraj3802/?isSelfProfile=true).
 ---
 
 <div align="center">
